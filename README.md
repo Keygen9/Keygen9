@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello everybody !
 
-<!--
-**Keygen9/Keygen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨I'm a junior developer.✨
 
-Here are some ideas to get you started:
+I currently am interested in learning everything about backend languages, mostly interested in Python for the moment!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My tricks for frontend developement :
+
+| HTML5 | CSS3 | Javascript | Frameworks => Bootstrap
+
+My tricks for backend developement :
+
+| MariaDB | MySQL | PHP | Frameworks => Symfony / Laravel / Lumen
