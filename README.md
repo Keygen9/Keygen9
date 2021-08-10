@@ -14,6 +14,5 @@ My tricks for backend developement :
 | MariaDB | MySQL | PHP | Frameworks => Symfony / Laravel / Lumen
 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keygen9)](https://github.com/O-clock-Trinity/github-readme-stats)
 
-
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
