@@ -7,7 +7,7 @@ I currently am interested in learning everything about backend languages, mostly
 
 My tricks for frontend developement :
 
-| HTML5 | CSS3 | Javascript | Frameworks => Bootstrap
+| HTML5 | CSS3 | Javascript | Frameworks => Bootstrap | Angular
 
 My tricks for backend developement :
 
